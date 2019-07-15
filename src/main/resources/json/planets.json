@@ -1,0 +1,51 @@
+[
+	{"name":"Alderaan",
+	"climates":[{"nameclimates":"temperate"}],
+	"terrains":[{"nameterrains":"grasslands"},{"nameterrains":"mountains"}],
+	"films":[{"namefilms":"Revenge of the Sith"},{"namefilms":"A New Hope"}]},
+	
+	{"name":"Yavin IV",
+	"climates":[{"nameclimates":"temperate"},{"nameclimates":"tropical"}],
+	"terrains":[{"nameterrains":"jungle"},{"nameterrains":"rainforests"}],
+	"films":[{"namefilms":"A New Hope"}]},
+	
+	{"name":"Hoth",
+	"climates":[{"nameclimates":"frozen"}],
+	"terrains":[{"nameterrains":"tundra"},{"nameterrains":"rainforests"},{"nameterrains":"mountain ranges"}],
+	"films":[{"namefilms":"The Empire Strikes Back"}]},
+	
+	{"name":"Dagobah",
+	"climates":[{"nameclimates":"murky"}],
+	"terrains":[{"nameterrains":"swamp"},{"nameterrains":"jungles"}],
+	"films":[{"namefilms":"The Empire Strikes Back"},{"namefilms":"Return of the Jedi"},{"namefilms":"Revenge of the Sith"}]},
+	
+	{"name":"Bespin",
+	"climates":[{"nameclimates":"temperate"}],
+	"terrains":[{"nameterrains":"gas giant"}],
+	"films":[{"namefilms":"The Empire Strikes Back"}]},
+	
+	{"name":"Endor",
+	"climates":[{"nameclimates":"temperate"},{"nameclimates":"tropical"}],
+	"terrains":[{"nameterrains":"jungle"},{"nameterrains":"rainforests"}],
+	"films":[{"namefilms":"Return of the Jedi"}]},
+	
+	{"name":"Naboo",
+	"climates":[{"nameclimates":"temperate"}],
+	"terrains":[{"nameterrains":"grassy hills"},{"nameterrains":"swamps"},{"nameterrains":"forests"},{"nameterrains":"mountains"}],
+	"films":[{"namefilms":"Return of the Jedi"},{"namefilms":"The Phantom Menace"},{"namefilms":"Attack of the Clones"},{"namefilms":"Revenge of the Sith"}]},
+	
+	{"name":"Coruscant",
+	"climates":[{"nameclimates":"temperate"}],
+	"terrains":[{"nameterrains":"cityscape"},{"nameterrains":"mountains"}],
+	"films":[{"namefilms":"Return of the Jedi"},{"namefilms":"The Phantom Menace"},{"namefilms":"Attack of the Clones"},{"namefilms":"Revenge of the Sith"}]},
+	
+	{"name":"Kamino",
+	"climates":[{"nameclimates":"temperate"}],
+	"terrains":[{"nameterrains":"ocean"}],
+	"films":[{"namefilms":"Attack of the Clones"}]},
+	
+	{"name":"Geonosis",
+	"climates":[{"nameclimates":"temperate"},{"nameclimates":"arid"}],
+	"terrains":[{"nameterrains":"rock"},{"nameterrains":"desert"},{"nameterrains":"mountain"},{"nameterrains":"barren"}],
+	"films":[{"namefilms":"Attack of the Clones"}]}	
+]
